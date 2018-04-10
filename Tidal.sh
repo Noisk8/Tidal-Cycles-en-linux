@@ -3,7 +3,7 @@
 
 echo Installing dependencies..
 sudo apt-get update
-sudo apt-get install supercollider sc3-plugins build-essential git qjackctl cabal-install zlib1g-dev libportmidi-dev libasound2-dev
+sudo apt-get install haskell-platform supercollider sc3-plugins build-essential git qjackctl cabal-install zlib1g-dev libportmidi-dev libasound2-dev
 
 echo Agregando usuario a grupo 'audio' 
 sudo adduser $USER audio
