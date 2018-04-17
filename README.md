@@ -1,11 +1,22 @@
 # Tidal-Cycles-en-linux
+
 Script para instalar Tidal Cycles en Debian o ubuntu
 
-Guía de utilización 
+## Guía de utilización 
 
-1er paso Clonar el repositorio 
+### 1er paso
+
+Clonar el repositorio 
+
+git clone https://github.com/Noisk8/Tidal-Cycles-en-linux
+
+### 2do paso 
+
+accedemos a la carpeta que clonamos y le damos los permisos al script 
 
 Damos los permisos para hacer ejecutable el script
+
+cd Tidal-Cycles-en-linux
 
 chmod +x Tidal.sh
 
